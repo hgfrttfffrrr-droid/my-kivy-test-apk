@@ -2,6 +2,7 @@
 title = My Kivy Test App
 package.name = mykivytest
 package.domain = org.test
+version = 1.0
 
 source.main_filename = main.py
 source.dir = .
